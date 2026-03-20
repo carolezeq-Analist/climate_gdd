@@ -113,6 +113,8 @@ Skills Demonstrated
 	•	Data visualization (static + interactive)
 	•	Analytical reasoning applied to real-world datasets
 
+	https://carolezeq-analist.github.io/climate_gdd/
+
 Author
 
 Carolina da Silva Ezequiel
